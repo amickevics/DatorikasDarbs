@@ -1,0 +1,13 @@
+p {
+  color: tomato;
+}
+body {
+  font-size: 40px;
+}
+ul {
+  border:2px solid Violet;
+}
+div {
+    display: block;
+    unicode-bidi: isolate;
+}
